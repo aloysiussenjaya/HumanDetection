@@ -1,5 +1,5 @@
 ### HumanDetection
-- OpenCV Library
+- OpenCV 4.5.1 Library
 - Python 3.9
 
 # OpenCV Configuration with Python Language
